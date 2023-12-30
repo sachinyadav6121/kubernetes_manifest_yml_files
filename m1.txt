@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 m1 file is ready to commit
 2nd line
+=======
+m1 file is commited
+>>>>>>> a644a9376d564897de55a9b0f818e356fcf04b6d
